@@ -119,11 +119,11 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 
 | ⬡ | Projecto | Descrição | Stack |
 |:---:|---|---|---|
-| 🟡 | **[KAMBA Finance](https://github.com/NiltonCarlosdawg/kamba)** | Assistente financeiro com IA para gestão em Kwanzas — orçamentos, transacções, análise inteligente de despesas | React · TypeScript · Node.js · Anthropic API |
-| 🔵 | **[PedeJá](https://github.com/NiltonCarlosdawg/pedeja)** | Plataforma de delivery para Luanda com 4 roles: cliente, restaurante, estafeta e admin | React · TypeScript · PostgreSQL |
-| 🟢 | **[QRinvite](https://github.com/NiltonCarlosdawg/qrinvite)** | Sistema de convites para eventos com validação por QR Code em tempo real | TypeScript |
-| 🔴 | **[UNIPASS](https://github.com/NiltonCarlosdawg/unipass)** | Sistema de acesso e gestão universitária | — |
-| ⚫ | **[kambass](https://github.com/NiltonCarlosdawg/kambass)** | Backend robusto da plataforma KAMBA | JavaScript · Node.js |
+| <img src="https://skillicons.dev/icons?i=react" width="22"/> | **[KAMBA Finance](https://github.com/NiltonCarlosdawg/kamba)** | Assistente financeiro com IA para gestão em Kwanzas — orçamentos, transacções, análise inteligente de despesas | React · TypeScript · Node.js · Anthropic API |
+| <img src="https://skillicons.dev/icons?i=react" width="22"/> | **[PedeJá](https://github.com/NiltonCarlosdawg/pedeja)** | Plataforma de delivery para Luanda com 4 roles: cliente, restaurante, estafeta e admin | React · TypeScript · PostgreSQL |
+| <img src="https://skillicons.dev/icons?i=ts" width="22"/> | **[QRinvite](https://github.com/NiltonCarlosdawg/qrinvite)** | Sistema de convites para eventos com validação por QR Code em tempo real | TypeScript |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="22"/> | **[UNIPASS](https://github.com/NiltonCarlosdawg/unipass)** | Sistema de acesso e gestão universitária | — |
+| <img src="https://skillicons.dev/icons?i=js" width="22"/> | **[kambass](https://github.com/NiltonCarlosdawg/kambass)** | Backend robusto da plataforma KAMBA | JavaScript · Node.js |
 
 </div>
 
