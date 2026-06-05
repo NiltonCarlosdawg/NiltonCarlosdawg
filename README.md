@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="./assets/mascot.svg" width="500" alt="Nilton Dev Mascot"/>
-
 ```
  ░▒▓█  N I L T O N  C A R L O S  D A  C O S T A  █▓▒░
 ```
-
+<img src="./assets/mascot.svg" width="500" alt="Nilton Dev Mascot"/>
 ```
         ██████╗  █████╗ ██╗    ██╗ ██████╗
         ██╔══██╗██╔══██╗██║    ██║██╔════╝
