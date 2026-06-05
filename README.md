@@ -141,8 +141,8 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NiltonCarlosdawg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C84B1E&icon_color=C84B1E&text_color=c9d1d9&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonCarlosdawg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C84B1E&text_color=c9d1d9&langs_count=8" />
+<img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=NiltonCarlosdawg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C84B1E&icon_color=C84B1E&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" />
+<img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NiltonCarlosdawg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C84B1E&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
 
 <br/>
 
