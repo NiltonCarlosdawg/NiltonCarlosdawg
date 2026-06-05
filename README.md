@@ -57,7 +57,7 @@ filosofia:  "Tecnologia feita em África, para África."
 
 ## `◈` SOBRE MIM
 
-Sou **Full Stack Developer** e **COO** na [**Verano Labs**](https://github.com/NiltonCarlosdawg) — startup tecnológica fundada em Luanda em 2026.
+Sou **Full Stack Developer** e **COO** na [**Verano Labs**](https://verano.sbs) — startup tecnológica fundada em Luanda em 2026.
 
 Construo ecossistemas digitais do banco de dados à interface, com atenção obsessiva a **clean code**, **escalabilidade** e **experiência do utilizador**. Cada produto que lanço tem contexto: o kwanza, o kilamba, a realidade do dia-a-dia angolano.
 
