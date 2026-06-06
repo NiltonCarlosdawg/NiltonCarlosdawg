@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="./assets/mascot.svg" width="500" alt="Nilton Dev Mascot"/>
-
 ```
  ░▒▓█  N I L T O N  C A R L O S  D A  C O S T A  █▓▒░
 ```
+<img src="./assets/mascot.svg" width="500" alt="Nilton Dev Mascot"/>
 
 ```
         ██████╗  █████╗ ██╗    ██╗ ██████╗
@@ -46,10 +45,10 @@
 nome:       Nilton Carlos Domingas Da Costa
 alias:      @NiltonCarlosdawg
 cargo:      Co-Founder & COO @ Verano Labs
-base:       Luanda, Angola 🇦🇴
-status:     Disponível para projectos
+base:       Luanda, Angola
+status:     Disponivel para projectos
 foco:       Produtos digitais para o mercado africano
-filosofia:  "Tecnologia feita em África, para África."
+filosofia:  "Tecnologia feita em Africa, para Africa."
 ```
 
 <br clear="right"/>
@@ -141,7 +140,7 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
  │  ◆ MilVendas        → e-commerce + ALS recommender  │
  │  ◆ CalungaSoft      → multi-tenant chat + WhatsApp  │
  │                                                     │
- │  🏆  ANGOTIC 2026 — Expositores Confirmados         │
+ │  [TROPHY]  ANGOTIC 2026 — Expositores Confirmados   │
  │                                                     │
  └─────────────────────────────────────────────────────┘
 ```
@@ -161,23 +160,22 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 
 <br/>
 
-### 🏆 TROFÉUS
+### <img src="https://cdn.simpleicons.org/github/C84B1E" width="20"/> TROFÉUS
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=NiltonCarlosdawg&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=NiltonCarlosdawg&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&title=Commits,Stars,Repositories,Followers,PullRequest,Issues,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-### 🐍 A COBRA COME OS MEUS COMMITS
-
-> **Setup necessário:** Activa o GitHub Actions com o workflow abaixo para gerar a snake automaticamente.
+### <img src="https://cdn.simpleicons.org/github/C84B1E" width="20"/> A COBRA COME OS MEUS COMMITS
 
 ![Snake](https://raw.githubusercontent.com/NiltonCarlosdawg/NiltonCarlosdawg/output/github-contribution-grid-snake-dark.svg)
 
 <br/>
 
-### 🌍 VISITAS POR LOCALIZAÇÃO
+### <img src="https://cdn.simpleicons.org/googlemaps/C84B1E" width="20"/> VISITAS AO PERFIL
 
-[![Visitor Map](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNiltonCarlosdawg&label=VISITANTES&labelColor=%23111010&countColor=%23C84B1E&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNiltonCarlosdawg)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNiltonCarlosdawg&label=TOTAL%20DE%20VISITAS&labelColor=%23111010&countColor=%23C84B1E&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNiltonCarlosdawg)
+[![Visitors Today](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FNiltonCarlosdawg&label=HOJE&labelColor=%23111010&countColor=%23C84B1E&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNiltonCarlosdawg)
 
 </div>
 
@@ -186,10 +184,10 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 ## `◈` FORMAÇÃO
 
 ```
- 🎓  Técnico de Informática — TCC
-     IMTELC · Instituto Médio de Tecnologias, Línguas, Cultura e Ciência
-     Luanda, Angola · 2023 — 2026
-     Projecto Final: KAMBA Finance — AI-powered financial assistant
+ [IMTELC]  Tecnico de Informatica — TCC
+           Instituto Medio de Tecnologias, Linguas, Cultura e Ciencia
+           Luanda, Angola · 2023 — 2026
+           Projecto Final: KAMBA Finance — AI-powered financial assistant
 ```
 
 ---
@@ -202,7 +200,7 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-**📍 Luanda, Angola &nbsp;·&nbsp; 🏢 Verano Labs &nbsp;·&nbsp; 🇦🇴 Built for Africa**
+**<img src="https://cdn.simpleicons.org/googlemaps/C84B1E" width="14"/> Luanda, Angola &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/github/C84B1E" width="14"/> Verano Labs &nbsp;·&nbsp; Built for Africa**
 
 *Zero imports. Zero compromise. 100% Angola.*
 
