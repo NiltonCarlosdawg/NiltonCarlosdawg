@@ -1,9 +1,10 @@
 <div align="center">
 
+<img src="./assets/mascot.svg" width="500" alt="Nilton Dev Mascot"/>
+
 ```
  ░▒▓█  N I L T O N  C A R L O S  D A  C O S T A  █▓▒░
 ```
-<img src="./assets/mascot.svg" width="500" alt="Nilton Dev Mascot"/>
 
 ```
         ██████╗  █████╗ ██╗    ██╗ ██████╗
@@ -57,7 +58,7 @@ filosofia:  "Tecnologia feita em África, para África."
 
 ## `◈` SOBRE MIM
 
-Sou **Full Stack Developer** e **COO** na [**Verano Labs**](https://verano.sbs) — startup tecnológica fundada em Luanda em 2026.
+Sou **Full Stack Developer** e **COO** na [**Verano Labs**](https://github.com/NiltonCarlosdawg) — startup tecnológica fundada em Luanda em 2026.
 
 Construo ecossistemas digitais do banco de dados à interface, com atenção obsessiva a **clean code**, **escalabilidade** e **experiência do utilizador**. Cada produto que lanço tem contexto: o kwanza, o kilamba, a realidade do dia-a-dia angolano.
 
@@ -157,6 +158,26 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NiltonCarlosdawg&theme=dark&hide_border=true&background=0D1117&ring=C84B1E&fire=C84B1E&currStreakLabel=C84B1E)](https://git.io/streak-stats)
+
+<br/>
+
+### 🏆 TROFÉUS
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=NiltonCarlosdawg&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+### 🐍 A COBRA COME OS MEUS COMMITS
+
+> **Setup necessário:** Activa o GitHub Actions com o workflow abaixo para gerar a snake automaticamente.
+
+![Snake](https://raw.githubusercontent.com/NiltonCarlosdawg/NiltonCarlosdawg/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+### 🌍 VISITAS POR LOCALIZAÇÃO
+
+[![Visitor Map](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNiltonCarlosdawg&label=VISITANTES&labelColor=%23111010&countColor=%23C84B1E&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNiltonCarlosdawg)
 
 </div>
 
