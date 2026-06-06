@@ -1,9 +1,10 @@
 <div align="center">
 
+<img src="./assets/mascot.svg" width="500" alt="Nilton Dev Mascot"/>
+
 ```
  ░▒▓█  N I L T O N  C A R L O S  D A  C O S T A  █▓▒░
 ```
-<img src="./assets/mascot.svg" width="500" alt="Nilton Dev Mascot"/>
 
 ```
         ██████╗  █████╗ ██╗    ██╗ ██████╗
@@ -162,7 +163,7 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 
 ### <img src="https://cdn.simpleicons.org/github/C84B1E" width="20"/> TROFÉUS
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=NiltonCarlosdawg&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&title=Commits,Stars,Repositories,Followers,PullRequest,Issues,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://trophy.benkou.dev/?username=NiltonCarlosdawg&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
