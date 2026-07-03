@@ -3,22 +3,23 @@
 ```
  ░▒▓█  N I L T O N  C A R L O S  D A  C O S T A  █▓▒░
 ```
+
 <img src="./assets/mascot.svg" width="500" alt="Nilton Dev Mascot"/>
 
 ```
-        ██████╗  █████╗ ██╗    ██╗ ██████╗
-        ██╔══██╗██╔══██╗██║    ██║██╔════╝
-        ██║  ██║███████║██║ █╗ ██║██║  ███╗
-        ██║  ██║██╔══██║██║███╗██║██║   ██║
-        ██████╔╝██║  ██║╚███╔███╔╝╚██████╔╝
-        ╚═════╝ ╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝
+ ███╗   ██╗██╗██╗  ████████╗ ██████╗ ███╗   ██╗
+ ████╗  ██║██║██║  ╚══██╔══╝██╔═══██╗████╗  ██║
+ ██╔██╗ ██║██║██║     ██║   ██║   ██║██╔██╗ ██║
+ ██║╚██╗██║██║██║     ██║   ██║   ██║██║╚██╗██║
+ ██║ ╚████║██║███████╗██║   ╚██████╔╝██║ ╚████║
+ ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝    ╚═════╝ ╚═╝  ╚═══╝
 
            BUILT IN LUANDA. BUILT FOR AFRICA.
 ```
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C84B1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%87%A6%F0%9F%87%B4;Co-Founder+%40+Verano+Labs;Building+Digital+Angola%2C+one+commit+at+a+time.;Try+beat+my+dawg+on+top+commits.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C84B1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+Co-Founder+%F0%9F%87%A6%F0%9F%87%B4;COO+%40+Verano+Labs;Building+Digital+Angola%2C+one+commit+at+a+time.;Try+beat+my+dawg+on+top+commits.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -37,18 +38,18 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=NiltonCarlosdawg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C84B1E&icon_color=C84B1E&text_color=c9d1d9&rank_icon=github" />
+<img align="right" width="340" src="https://github-readme-stats-salesp07.vercel.app/api?username=NiltonCarlosdawg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C84B1E&icon_color=C84B1E&text_color=c9d1d9&rank_icon=github" />
 
 ### `> whoami`
 
 ```yaml
 nome:       Nilton Carlos Domingas Da Costa
 alias:      @NiltonCarlosdawg
-cargo:      Co-Founder & COO @ Verano Labs
+cargo:      Full Stack Developer & Co-Founder/COO @ Verano Labs
 base:       Luanda, Angola
-status:     Disponivel para projectos
+status:     Disponível para projectos
 foco:       Produtos digitais para o mercado africano
-filosofia:  "Tecnologia feita em Africa, para Africa."
+filosofia:  "Tecnologia feita em África, para África."
 ```
 
 <br clear="right"/>
@@ -57,9 +58,9 @@ filosofia:  "Tecnologia feita em Africa, para Africa."
 
 ## `◈` SOBRE MIM
 
-Sou **Full Stack Developer** e **COO** na [**Verano Labs**](https://github.com/NiltonCarlosdawg) — startup tecnológica fundada em Luanda em 2026.
+Sou **Full Stack Developer** e **Co-Founder / COO** na [**Verano Labs**](https://github.com/NiltonCarlosdawg) — startup tecnológica fundada em Luanda em 2026.
 
-Construo ecossistemas digitais do banco de dados à interface, com atenção obsessiva a **clean code**, **escalabilidade** e **experiência do utilizador**. Cada produto que lanço tem contexto: o kwanza, o kilamba, a realidade do dia-a-dia angolano.
+Construo ecossistemas digitais do banco de dados à interface, com atenção obsessiva a **clean code**, **escalabilidade** e **experiência do utilizador**. Cada produto que lanço tem contexto: o kwanza, o Kilamba, a realidade do dia-a-dia angolano.
 
 > *A melhor solução para África não vem importada. Vem daqui.*
 
@@ -119,10 +120,11 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 
 | ⬡ | Projecto | Descrição | Stack |
 |:---:|---|---|---|
+| <img src="https://skillicons.dev/icons?i=rust" width="22"/> | **[DocID](https://github.com/NiltonCarlosdawg/docid)** | Plataforma multi-tenant de gestão documental com isolamento por RLS, sync offline e API segura | Tauri v2 · React · Elysia/Bun · Drizzle · PostgreSQL · Redis |
 | <img src="https://skillicons.dev/icons?i=react" width="22"/> | **[KAMBA Finance](https://github.com/NiltonCarlosdawg/kamba)** | Assistente financeiro com IA para gestão em Kwanzas — orçamentos, transacções, análise inteligente de despesas | React · TypeScript · Node.js · Anthropic API |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="22"/> | **[Luena](https://github.com/NiltonCarlosdawg/luena)** | Chatbot financeiro via WhatsApp para a Kamba Finance — router de intenções e execução de acções em linguagem natural | TypeScript · WhatsApp Business API |
 | <img src="https://skillicons.dev/icons?i=react" width="22"/> | **[PedeJá](https://github.com/NiltonCarlosdawg/pedeja)** | Plataforma de delivery para Luanda com 4 roles: cliente, restaurante, estafeta e admin | React · TypeScript · PostgreSQL |
 | <img src="https://skillicons.dev/icons?i=ts" width="22"/> | **[QRinvite](https://github.com/NiltonCarlosdawg/qrinvite)** | Sistema de convites para eventos com validação por QR Code em tempo real | TypeScript |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="22"/> | **[UNIPASS](https://github.com/NiltonCarlosdawg/unipass)** | Sistema de acesso e gestão universitária | — |
 | <img src="https://skillicons.dev/icons?i=js" width="22"/> | **[kambass](https://github.com/NiltonCarlosdawg/kambass)** | Backend robusto da plataforma KAMBA | JavaScript · Node.js |
 
 </div>
@@ -134,14 +136,16 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 ```
  VERANO LABS — Luanda, Angola · Jan 2026 → ...
  ┌─────────────────────────────────────────────────────┐
- │                                                     │
- │  ◆ KAMBA Finance    → full-stack em dev activo      │
- │  ◆ KINO Delivery    → React Native · Kilamba/KK5000 │
- │  ◆ MilVendas        → e-commerce + ALS recommender  │
- │  ◆ CalungaSoft      → multi-tenant chat + WhatsApp  │
- │                                                     │
- │  [TROPHY]  ANGOTIC 2026 — Expositores Confirmados   │
- │                                                     │
+ │                                                       │
+ │  ◆ DocID            → multi-tenant · RLS · segurança │
+ │  ◆ KAMBA Finance     → full-stack em dev activo      │
+ │  ◆ Luena             → chatbot WhatsApp · Kamba      │
+ │  ◆ KINO Delivery     → React Native · Kilamba/KK5000 │
+ │  ◆ MilVendas         → e-commerce + ALS recommender  │
+ │  ◆ CalungaSoft       → multi-tenant chat + WhatsApp  │
+ │                                                       │
+ │  [TROPHY]  ANGOTIC 2026 — Expositores Confirmados    │
+ │                                                       │
  └─────────────────────────────────────────────────────┘
 ```
 
@@ -160,12 +164,6 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 
 <br/>
 
-### <img src="https://cdn.simpleicons.org/github/C84B1E" width="20"/> TROFÉUS
-
-[![Trophies](https://trophy.benkou.dev/?username=NiltonCarlosdawg&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
 ### <img src="https://cdn.simpleicons.org/github/C84B1E" width="20"/> A COBRA COME OS MEUS COMMITS
 
 ![Snake](https://raw.githubusercontent.com/NiltonCarlosdawg/NiltonCarlosdawg/output/github-contribution-grid-snake-dark.svg)
@@ -175,7 +173,6 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 ### <img src="https://cdn.simpleicons.org/googlemaps/C84B1E" width="20"/> VISITAS AO PERFIL
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNiltonCarlosdawg&label=TOTAL%20DE%20VISITAS&labelColor=%23111010&countColor=%23C84B1E&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNiltonCarlosdawg)
-[![Visitors Today](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FNiltonCarlosdawg&label=HOJE&labelColor=%23111010&countColor=%23C84B1E&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNiltonCarlosdawg)
 
 </div>
 
@@ -184,8 +181,8 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 ## `◈` FORMAÇÃO
 
 ```
- [IMTELC]  Tecnico de Informatica — TCC
-           Instituto Medio de Tecnologias, Linguas, Cultura e Ciencia
+ [IMTELC]  Técnico de Informática — TCC
+           Instituto Médio de Tecnologias, Línguas, Cultura e Ciência
            Luanda, Angola · 2023 — 2026
            Projecto Final: KAMBA Finance — AI-powered financial assistant
 ```
@@ -195,8 +192,6 @@ Construo ecossistemas digitais do banco de dados à interface, com atenção obs
 <div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  "Try beat my dawg on top commits."
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
